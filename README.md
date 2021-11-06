@@ -1,0 +1,1 @@
+# auto_scaled_app_example
